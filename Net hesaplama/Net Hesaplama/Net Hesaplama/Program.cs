@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Alan_Cevre
+namespace Net_Hesaplama
 {
     internal static class Program
     {

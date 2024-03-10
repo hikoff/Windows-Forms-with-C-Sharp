@@ -1,0 +1,10 @@
+C:\Users\hikme\Desktop\Ödev\Net hesaplama\Net Hesaplama\Net Hesaplama\bin\Debug\Net Hesaplama.exe.config
+C:\Users\hikme\Desktop\Ödev\Net hesaplama\Net Hesaplama\Net Hesaplama\bin\Debug\Net Hesaplama.exe
+C:\Users\hikme\Desktop\Ödev\Net hesaplama\Net Hesaplama\Net Hesaplama\bin\Debug\Net Hesaplama.pdb
+C:\Users\hikme\Desktop\Ödev\Net hesaplama\Net Hesaplama\Net Hesaplama\obj\Debug\Net Hesaplama.csproj.AssemblyReference.cache
+C:\Users\hikme\Desktop\Ödev\Net hesaplama\Net Hesaplama\Net Hesaplama\obj\Debug\Net_Hesaplama.Form1.resources
+C:\Users\hikme\Desktop\Ödev\Net hesaplama\Net Hesaplama\Net Hesaplama\obj\Debug\Net_Hesaplama.Properties.Resources.resources
+C:\Users\hikme\Desktop\Ödev\Net hesaplama\Net Hesaplama\Net Hesaplama\obj\Debug\Net Hesaplama.csproj.GenerateResource.cache
+C:\Users\hikme\Desktop\Ödev\Net hesaplama\Net Hesaplama\Net Hesaplama\obj\Debug\Net Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\hikme\Desktop\Ödev\Net hesaplama\Net Hesaplama\Net Hesaplama\obj\Debug\Net Hesaplama.exe
+C:\Users\hikme\Desktop\Ödev\Net hesaplama\Net Hesaplama\Net Hesaplama\obj\Debug\Net Hesaplama.pdb

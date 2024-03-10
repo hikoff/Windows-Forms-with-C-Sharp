@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Alan_Cevre.Properties
+namespace Net_Hesaplama.Properties
 {
 
 
