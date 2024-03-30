@@ -1,0 +1,10 @@
+C:\Users\hikme\Desktop\Kod\Ödev\23MY03039_odev_no_6\23MY03039_odev_no_6\bin\Debug\23MY03039_odev_no_6.exe.config
+C:\Users\hikme\Desktop\Kod\Ödev\23MY03039_odev_no_6\23MY03039_odev_no_6\bin\Debug\23MY03039_odev_no_6.exe
+C:\Users\hikme\Desktop\Kod\Ödev\23MY03039_odev_no_6\23MY03039_odev_no_6\bin\Debug\23MY03039_odev_no_6.pdb
+C:\Users\hikme\Desktop\Kod\Ödev\23MY03039_odev_no_6\23MY03039_odev_no_6\obj\Debug\23MY03039_odev_no_6.csproj.AssemblyReference.cache
+C:\Users\hikme\Desktop\Kod\Ödev\23MY03039_odev_no_6\23MY03039_odev_no_6\obj\Debug\_23MY03039_odev_no_6.Form1.resources
+C:\Users\hikme\Desktop\Kod\Ödev\23MY03039_odev_no_6\23MY03039_odev_no_6\obj\Debug\_23MY03039_odev_no_6.Properties.Resources.resources
+C:\Users\hikme\Desktop\Kod\Ödev\23MY03039_odev_no_6\23MY03039_odev_no_6\obj\Debug\23MY03039_odev_no_6.csproj.GenerateResource.cache
+C:\Users\hikme\Desktop\Kod\Ödev\23MY03039_odev_no_6\23MY03039_odev_no_6\obj\Debug\23MY03039_odev_no_6.csproj.CoreCompileInputs.cache
+C:\Users\hikme\Desktop\Kod\Ödev\23MY03039_odev_no_6\23MY03039_odev_no_6\obj\Debug\23MY03039_odev_no_6.exe
+C:\Users\hikme\Desktop\Kod\Ödev\23MY03039_odev_no_6\23MY03039_odev_no_6\obj\Debug\23MY03039_odev_no_6.pdb
